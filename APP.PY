@@ -1,1 +1,1 @@
-
+print("Study Load Optimizer")
